@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/264
     wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22121#Olive--A-Novel
 gutenberg_issued: '2007-07-23'
 gutenberg_type: Text
 identifiers:
